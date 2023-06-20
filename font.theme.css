@@ -3,15 +3,15 @@
 
 :root {
 
---Font-Used: 'Jetbrains Mono';
+--Font-Used: 'JetBrains Mono', monospace;
 
 /* https://nfld99.github.io/Better-Discord/Font_List.txt */
 
---Font-Size: 48px ;
+--Font-Size: 5px ;
 
 /* mediumxx-smallx-smallsmalllargex-largexx-largesmallerlargerlengthinitialinherit; */
 
---Font-Style: regular ;
+--Font-Style: medium ;
 
 /* normalitalicobliqueinitialinherit; */
 
@@ -19,7 +19,7 @@
 
 /* normalboldbolderlighternumberinitialinherit */
 
---Font-Variant: regular ;
+--Font-Variant: medium ;
 
 /* normalsmall-capsinitialinherit */
 
@@ -39,5 +39,6 @@ font-variant: var(--Font-Variant)!important;
 
 .markup:not(code) {
 
+ font-size: var(--Font-Size)!important;
 
 } 
