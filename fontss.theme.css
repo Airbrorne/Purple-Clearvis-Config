@@ -1,9 +1,10 @@
  @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/Yes.css);
  @import url(https://fonts.googleapis.com/css2?family=Jetbrains+Mono:wght@100;300;400;500;700&display=swap);
- 
+ @import url(https://fonts.googleapis.com/css2?family=Geologica:wght@100;300;400;500;700&display=swap);
+
 :root {
 
---Font-Used: 'Jetbrains Mono';
+--Font-Used: 'Geologica';
 
 /* https://nfld99.github.io/Better-Discord/Font_List.txt */
 
