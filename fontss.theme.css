@@ -39,6 +39,5 @@ font-variant: var(--Font-Variant)!important;
 
 .markup:not(code) {
 
-font-size: var(--Font-Size)!important;
 
 } 
