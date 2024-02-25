@@ -18,9 +18,9 @@
   --success-color: #9851AF;
   --danger-color: #982929;
   --url-color: #9F69FF;
-  --background-image: url('https://github.com/Airbrorne/Purple-Clearvis-Config/blob/main/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper.jpg?raw=true');
+  --background-image: url('https://github.com/Airbrorne/Purple-Clearvis-Config/blob/main/purple-blue-liquid-desktop-wallpaper.jpg?raw=true');
   --background-shading: 100%;
-  --background-position: center;
+  --background-position: top left;
   --background-size: cover;
   --background-repeat: repeat;
   --background-attachment: fixed;
@@ -30,7 +30,7 @@
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 2px;
-  --background-overlay: rgb(16,0,43,0.6);
+  --background-overlay: rgb(16,0,43,0.7);
   --user-popout-image: url('https://cdn.discordapp.com/attachments/710754513740628050/1120703680199524453/ScdRqQ2.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
@@ -88,5 +88,4 @@
 }
 
 /* Any custom CSS below here */
-
 
